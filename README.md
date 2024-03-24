@@ -19,7 +19,7 @@ This is a still Work-In-Progress app, it's lacking some UI/UX features and final
   - [Authors](#authors)
 
 # How to use
-  - Run the application (check [how to run](#how-to-run) session).
+  - Run the application (check [how to run](#how-to-run-beta) session).
   - Open the APP on your browser (or any other device using the same network if you chose to run in Lan Mode).
   - Get inside the task area.
   - As soon as each round starts:
